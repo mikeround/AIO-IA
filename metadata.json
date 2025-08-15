@@ -1,5 +1,8 @@
 {
   "name": "All In One IA",
-  "description": "Una aplicación con 7 asistentes de IA para diferentes tareas.",
-  "requestFramePermissions": []
+  "description": "Una aplicación con 8 asistentes de IA para diferentes tareas, con creación de asistentes personalizados, modo oscuro, chat multimodal y más.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
 }
